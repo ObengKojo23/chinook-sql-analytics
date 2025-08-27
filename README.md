@@ -84,5 +84,5 @@ As part of our ongoing efforts to improve decision-making and drive growth, we n
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/chinook-sql-analytics.git
+   git clone https://github.com/obengkojo23/chinook-sql-analytics.git
    cd chinook-sql-analytics
