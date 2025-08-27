@@ -1,1 +1,88 @@
 # SQL-Driven Business Insights on the Chinook Music Store Dataset
+
+# 🎶 Chinook Retail Analytics — SQL Project  
+
+[![SQL](https://img.shields.io/badge/SQL-SQLite-blue)]()  
+[![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)]()  
+[![Status](https://img.shields.io/badge/Project-Completed-brightgreen)]()  
+
+---
+
+## 📝 Executive Summary  
+
+Our digital music store (Chinook) continues to grow, but management faces challenges in understanding customer behavior, sales performance, and catalog utilization. We have large volumes of transactional and catalog data, yet actionable insights are missing.  
+
+To address this, the Data Analytics team has been tasked with conducting a **comprehensive SQL-driven analysis** of the Chinook database. The goal is to uncover insights that will help us:  
+- Identify and retain high-value customers.  
+- Track sales performance across time, markets, products, and formats.  
+- Understand purchasing behaviors to inform pricing and bundling strategies.  
+- Optimize our music catalogue and playlists for better curation.  
+- Evaluate account manager (support reps) performance to drive efficiency.  
+
+This analysis will form the foundation for **data-informed decision-making** across marketing, sales, and content teams, ensuring that our strategies are backed by evidence rather than assumptions.  
+
+---
+
+## 📌 Problem Statement  
+
+**From Management:**  
+
+As part of our ongoing efforts to improve decision-making and drive growth, we need deeper insights from our digital music store data (Chinook database). While we have raw transaction and catalogue data, management lacks clear visibility into:  
+
+1. **Customer & Market Insights**  
+   - Who are our most valuable customers?  
+   - Which markets generate the highest revenue and average order values?  
+   - How many of our customers are one-time vs returning?  
+
+2. **Sales & Revenue Analytics**  
+   - What is our total revenue performance?  
+   - What does the monthly revenue trend look like?  
+   - Which tracks, artists, genres, and formats generate the most revenue?  
+
+3. **Basket & Pricing Behavior**  
+   - How do customers structure their purchases (basket size and value)?  
+   - Which products are highly price-sensitive vs consistently premium?  
+
+4. **Catalogue & Content Curation**  
+   - Which albums and artists have the deepest catalogues?  
+   - Are there tracks that are not being promoted via playlists?  
+   - Which tracks are most frequently included in playlists?  
+
+5. **Team Performance (Support Reps as Account Managers)**  
+   - Which employees manage the most revenue?  
+   - What is the average deal size per representative?  
+   - How does portfolio size compare to revenue performance?  
+
+**Your Task as the Analyst:**  
+- Extract insights from the Chinook database using SQL.  
+- Present findings that directly answer these questions.  
+- Highlight key opportunities for management to act on (e.g., high-value customers, top-performing artists, curation gaps, rep performance).  
+- Ensure the analysis is reproducible and can be shared with technical and non-technical stakeholders alike.  
+
+---
+
+## 🎯 Deliverables & Outcomes  
+
+### 📂 Deliverables  
+- **SQL Queries Notebook**: Step-by-step queries solving each business problem (Jupyter-ready).  
+- **Chinook Database Connection Setup**: Instructions to set up and query the SQLite Chinook database in Jupyter Notebook.  
+- **Business Problem Framework**: Clear mapping of management questions to SQL queries.  
+- **Documentation**: Problem statements, query explanations, and insights for non-technical stakeholders.  
+
+### 📊 Outcomes  
+- Identified top **10 high-value customers** and segmented markets by revenue and average order value.  
+- Highlighted **revenue trends** by month and uncovered top-performing **tracks, artists, genres, and media types.**  
+- Revealed **basket size and value patterns**, including products with high price sensitivity.  
+- Exposed **curation gaps** (tracks missing from playlists) and most-playlisted tracks for better catalogue strategy.  
+- Evaluated **employee performance** by revenue under management, average deal size, and portfolio efficiency.  
+
+✅ These insights provide **data-driven recommendations** for customer retention, product promotions, catalog curation, and employee performance management.  
+
+---
+
+## 🚀 Getting Started  
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/yourusername/chinook-sql-analytics.git
+   cd chinook-sql-analytics
