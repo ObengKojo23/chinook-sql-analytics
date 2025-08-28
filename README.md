@@ -80,6 +80,22 @@ As part of our ongoing efforts to improve decision-making and drive growth, we n
 
 ---
 
+## 📂 SQL Scripts  
+
+All queries are organized by business problem and include:  
+- The **business problem** (from management).  
+- The **SQL query** solving it.  
+- Inline **insights and recommendations** as comments.  
+
+- [Customer & Market Insights](sql_queries/customer_market_insights.sql)  
+- [Sales & Revenue Analytics](sql_queries/sales_revenue_analytics.sql)  
+- [Basket & Pricing Behavior](sql_queries/basket_pricing_behavior.sql)  
+- [Catalogue & Content Curation](sql_queries/catalogue_content_curation.sql)  
+- [Team Performance](sql_queries/team_performance.sql)  
+- [All Queries (Master File)](sql_queries/all_queries_master.sql)  
+
+---
+
 ## 🚀 Getting Started  
 
 1. Clone the repository  
