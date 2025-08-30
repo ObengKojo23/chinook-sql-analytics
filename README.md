@@ -2,9 +2,13 @@
 
 # 🎶 Chinook Retail Analytics — SQL Project  
 
-[![SQL](https://img.shields.io/badge/SQL-SQLite-blue)]()  
+[![SQL](https://img.shields.io/badge/SQL-SQLite-blue)]()
+[![SQL Badge](https://img.shields.io/badge/SQL-Analysis-blue)]()
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)]()  
-[![Status](https://img.shields.io/badge/Project-Completed-brightgreen)]()  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/ObengKojo23/Chinook-SQL-Analytics)]()
+[![GitHub repo size](https://img.shields.io/github/repo-size/ObengKojo23/chinook-sql-analytics)]()
+[![Status](https://img.shields.io/badge/Project-Completed-brightgreen)]() 
 
 ---
 
