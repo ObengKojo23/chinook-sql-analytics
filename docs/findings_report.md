@@ -7,6 +7,9 @@ The findings are organized into five business themes, with **clear recommendatio
 
 ## 1️⃣ Customer & Market Insights
 
+**Problem**  
+Management requested visibility into customer lifetime value, revenue contribution by country, average order value, and the split between new vs returning customers.  
+
 **Key Insights:**
 - **Top Lifetime Value Customers:**  
   - Helena Holý (Czech Republic) leads with **$49.62** lifetime revenue.  
@@ -39,6 +42,9 @@ The company has a **loyal and concentrated customer base** with significant grow
 ---
 
 ## 2️⃣ Sales & Revenue Analytics
+
+**Problem**  
+The leadership team needed a clear view of total revenue, monthly performance trends, and top revenue drivers (tracks, artists, genres, formats). 
 
 **Key Insights:**
 - **Total Revenue:** **$20,848.62** across **2,240** units sold with steady performance across multiple years.
@@ -76,6 +82,9 @@ The company has a strong, stable revenue stream driven by dominant genres like R
 
 ## 3️⃣ Basket & Pricing Behavior
 
+**Problem**  
+Marketing wanted to understand basket size (multi-item orders) and identify price-sensitive products.
+
 **Key Insights:**
 - **Largest Baskets:**  
   - **Highest observeed:** Invoice 404 shows **14 items** with a basket value of **$25.86**.
@@ -98,6 +107,9 @@ The company's basket sizes are relatively small, with only a few orders reaching
 
 ## 4️⃣ Catalogue & Content Curation
 
+**Problem**  
+The content team needed insights into catalogue depth, playlist coverage, and most-playlisted tracks.
+
 **Key Insights:**
 - **Lenny Kravitz – *Greatest Hits*** leads with **57 tracks**, followed by **Chico Buarque – *Minha História* (34)** and **Eric Clapton *Unplugged* (30)**.
 - Multiple **TV season releases** (*Lost*, *The Office*, *Battlestar Galactica*) have **24–26+ tracks**, creating natural binge-listening bundles.
@@ -119,6 +131,9 @@ The compan's catalog features strong top performers such as Lenny Kravits and cl
 ---
 
 ## 5️⃣ Team Performance (Support Reps as Account Managers)
+
+**Problem**  
+Management wanted to measure employee effectiveness by revenue managed, average deal size, and portfolio efficiency
 
 **Key Insights:**
 - **Top Performers:**  
@@ -143,7 +158,7 @@ The team's top performers, Jane Peacock, Margaret Park, and Steve Johnson, exhib
 ---
 
 
-## 💡 Strategic Summary
+## 💡 Overall Strategic Recommendations Summary
 
 This analysis highlights **where to focus efforts** for growth:
 - **Market Focus:** Prioritize top 5 countries and unlock potential in mid-AOV markets.
