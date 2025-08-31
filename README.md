@@ -1,3 +1,5 @@
+![Banner Image](./images/banner.png)
+
 # SQL-Driven Business Insights on the Chinook Music Store Dataset
 
 [![SQL](https://img.shields.io/badge/SQL-SQLite-blue)]()
