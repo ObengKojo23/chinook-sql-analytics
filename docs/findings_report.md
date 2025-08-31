@@ -33,7 +33,7 @@ The findings are organized into five business themes, with **clear recommendatio
 - **VIP Program:** Develop a loyalty tier for top LTV customers with early access to new releases to protect and grow these valuable relationships.
 - **Retention Strategy:** Maintain engagement via personalized recommendations and exclusive offers. Since no customers are one-timers, invest in **cross-selling complementary products** and **loyalty incentives** to further monetize repeat behavior.
 
-### 📌 **Management Takeaway:**  
+### 🔑 **Management Takeaway:**  
 The company has a **loyal and concentrated customer base** with significant growth potential in both **revenue and AOV**. Strategic focus on key markets and customer engagement initiatives can accelerate profitability.
 
 ---
@@ -69,7 +69,7 @@ The company has a **loyal and concentrated customer base** with significant grow
 - Curate dedicated “TV & Film Soundtracks” playlists to increase discovery and repeat purchases.
 
   
-### 📌 **Management Takeaway:**  
+### 🔑 **Management Takeaway:**  
 The company has a strong, stable revenue stream driven by dominant genres like Rock, Latin, and Metal, as well as a core group of popular artists. The heavy reliance on MPEG audio suggests focusing catalog expansion on this format. The stable monthly revenue trend, combined with seasonal peaks, presents an opportunity to maximize sales with targeted promotions and curated contend. A strategic shift towards high-performing formats and genres will further strengthen the brand's market position.
 
 ---
@@ -91,7 +91,7 @@ The company has a strong, stable revenue stream driven by dominant genres like R
 - **Tiered Pricing:** Introduce “premium bundles” with slight discounts to incentivize bigger baskets.  
 - **Promote High-Margin Tracks:** Highlight slightly higher-priced tracks alongside popular low-price ones.
 
-### 📌 **Management Takeaway:**  
+### 🔑 **Management Takeaway:**  
 The company's basket sizes are relatively small, with only a few orders reaching higher values. While low-priced tracks drive significant volume, they limit per-unit revenue. A strategic focus on cross-selling, premium bundles, and highlighting higer-margin tracks can increase overall basket value and profitability without deterring price-sensitive customers.
 
 ---
@@ -112,7 +112,7 @@ The company's basket sizes are relatively small, with only a few orders reaching
 - **Artist Spotlight Campaigns:** Feature artists with deep catalogues to drive repeat engagement.
 - Maintain classical flagships (evergreen search demand) but **rebalance playlist real estate** toward genres/artists with higher commercial impact.
 
-### 📌 **Management Takeaway:**  
+### 🔑 **Management Takeaway:**  
 The compan's catalog features strong top performers such as Lenny Kravits and classic rock compilations, but also presents underexposed long-tail tracks that are missing from playlists or generating low sales. By focusing on curated editorial playlists and artist spotlights, the catalog can achieve better balance, providing greater exposure to niche tracks while maintaining the popularity of classical and evergreen pieces. This approach will enhance repeat engagement and diversify the revenue stream.
 
 
@@ -136,7 +136,7 @@ The compan's catalog features strong top performers such as Lenny Kravits and cl
 - **Enablement & Training:** Provide sales coaching and objection handling playbooks to underperformers.
 - **Capacity Model:** Define optimal accounts per rep and refresh allocation quarterly.
 
-### 📌 **Management Takeaway:**  
+### 🔑 **Management Takeaway:**  
 The team's top performers, Jane Peacock, Margaret Park, and Steve Johnson, exhibit strong account management, with high revenue and superior invoice values. However, a capacity imbalance exists, with some reps underutilized. By replicating best practices from the top performers, redistributing portfolios to balance workloads, and offering additional training to underperformers, the team can further enhance the overall efficiency and reduce risk concentration across accounts.
 
 
