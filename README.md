@@ -16,7 +16,7 @@
 
 Our digital music store (Chinook) continues to grow, but management faces challenges in understanding customer behavior, sales performance, and catalog utilization. We have large volumes of transactional and catalog data, yet actionable insights are missing.  
 
-This project delivers a **comprehensive, SQL-driven analysis** of the [Chinook Database](https://github.com/lerocha/chinook-database), a sample dataset representing a digital music store.  
+This project delivers a **comprehensive, SQL-driven analysis** of the [Chinook Database]([https://github.com/lerocha/chinook-database](https://github.com/ObengKojo23/chinook-sql-analytics/tree/main/dataset)), a sample dataset representing a digital music store.  
 As the **data analyst**, my task was to transform raw transaction and catalog data into **actionable insights** that inform management decisions on:
 
 - **Customer segmentation & retention**
