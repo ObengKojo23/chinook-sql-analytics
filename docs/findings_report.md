@@ -41,21 +41,23 @@ The company has a **loyal and concentrated customer base** with significant grow
 ## 2️⃣ Sales & Revenue Analytics
 
 **Key Insights:**
-- **Total Revenue:** $20,848.62 across 2,240 units sold — steady performance across multiple years.
+- **Total Revenue:** **$20,848.62** across **2,240** units sold with steady performance across multiple years.
 - **Top Genres:**  
-  - Rock leads at $826.65 (≈40% of sales), followed by Latin ($382.14) and Metal ($261.36).  
-  - Genre sales are heavily skewed, with Rock, Latin, and Metal contributing ≈70% of catalog revenue.
+  - **Rock** leads at **$826.65** (40% of sales), followed by Latin (**$382.14**) and Metal (**$261.36**).  
+  - Genre sales are heavily skewed, with **Rock, Latin, and Metal** contributing **63.13%** of catalog revenue.
+  - TV Shows soundtracks (**Lost**, **The Office**) also appear in the top 10, and generate **$93.53** in revenue indicating a strong demand for media-related content.
 
 - **Top Artists:**  
-  - Iron Maiden ($138.60), U2 ($105.93), and Metallica ($90.09) are top contributors.
+  - **Iron Maiden ($138.60)**, **U2 ($105.93)**, and **Metallica ($90.09)** dominate artist revenue, confirming **Rock/Metal** as the core genre drivers. 
   - Long tail of artists generates moderate revenue — potential for curated exposure.
 
-- **Revenue by Format:**  
-  - MPEG audio files account for >90% of revenue.  
-  - Protected MPEG-4 and AAC formats underperform.
+- **Revenue by Media Type (format):**  
+  - **MPEG audio files** contribute **$1,956.24** representing and overwhelming **84.01%** of the total revenue.  
+  - Other formats like Protected MPEG-4 video (**$220.89**) and Protected AAC audio (**$144.54**)  contribute marginally.
+  - Protected MPEG-4 and AAC formats worefully underperformed.
 
 - **Revenue Trend:**  
-  - Monthly revenues are stable, with slight seasonal peaks in April and November.  
+  - Monthly revenues are stable, with slight seasonal peaks in **April** and **November**.  
   - No major declining trend observed — demand is steady.
 
 **Recommendations:**
