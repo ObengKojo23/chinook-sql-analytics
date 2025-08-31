@@ -19,7 +19,7 @@ GROUP BY c.CustomerId
 ORDER BY LifetimeRevenue DESC
 LIMIT 20;
 
--- ----------------------------------------------------------------
+------------------------------------------------------------------
 
 /* 2) Revenue by Country with Share and Cumulative %
    What it answers:
@@ -48,7 +48,7 @@ SELECT
 FROM ranked
 ORDER BY Revenue DESC;
 
--- ----------------------------------------------------------------
+------------------------------------------------------------------
 
 /* 3) Average Order Value (AOV) by Country
    What it answers:
@@ -60,7 +60,7 @@ JOIN invoices  i ON i.CustomerId = c.CustomerId
 GROUP BY c.Country
 ORDER BY AvgOrderValue DESC;
 
--- ----------------------------------------------------------------
+------------------------------------------------------------------
 
 /* 4) Returning vs One-time Customers (by invoice count)
    What it answers:
@@ -76,5 +76,6 @@ SELECT
   SUM(CASE WHEN Orders > 1 THEN 1 ELSE 0 END) AS ReturningCustomers
 
 FROM counts;
+
 
 
