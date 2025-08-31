@@ -73,7 +73,7 @@ chinook-sql-analytics/
 ├── data/ (optional)
 │   └── chinook.db
 └── LICENSE
-
+```
 ## 📌 Problem Statement  
 
 **From Management:**  
@@ -193,4 +193,5 @@ The goal is to answer **key business questions** on customer behavior, revenue p
 
 ## 📝 Executive Summary
 
-
+## 🛠 Reproducibility
+All SQL queries can be run directly against `chinook.db` using SQLite + Jupyter Notebook. Queries are stored in the `sql/` folder of this repository for quick replication.
