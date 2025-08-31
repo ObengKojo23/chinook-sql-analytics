@@ -1,0 +1,20 @@
+# ================================
+# Chinook SQL Analytics - Requirements
+# ================================
+
+# Jupyter environment
+jupyter
+ipykernel
+
+# SQL & database connectivity
+sqlalchemy
+ipython-sql
+pandas
+sqlite3-bro
+
+# Data visualization (optional but recommended for trend analysis)
+matplotlib
+plotly
+
+# Utility packages
+numpy
