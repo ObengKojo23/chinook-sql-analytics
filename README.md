@@ -149,43 +149,9 @@ All queries are organized by business problem and include:
    cd chinook-sql-analytics
 
 
-
-
-   # 🎵 Chinook SQL Analytics Project
-
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-![GitHub last commit](https://img.shields.io/github/last-commit/ObengKojo23/Chinook-SQL-Analytics)
-![GitHub repo size](https://img.shields.io/github/repo-size/ObengKojo23/Chinook-SQL-Analytics)
-
-This project analyzes the **Chinook digital media store database** using SQL and Jupyter Notebooks.  
-The goal is to answer **key business questions** on customer behavior, revenue performance, pricing patterns, and team productivity — then translate them into **actionable insights** and **strategic recommendations** for stakeholders.
-
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-# 🎶 Chinook SQL Analytics — Business Insights Project
-
-[![SQL](https://img.shields.io/badge/SQL-SQLite-blue)]()
-[![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)]()
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-![GitHub last commit](https://img.shields.io/github/last-commit/ObengKojo23/Chinook-SQL-Analytics)
-![GitHub repo size](https://img.shields.io/github/repo-size/ObengKojo23/Chinook-SQL-Analytics)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-
----
-
-## 📝 Executive Summary
 
 ## 🛠 Reproducibility
 All SQL queries can be run directly against `chinook.db` using SQLite + Jupyter Notebook. Queries are stored in the `sql/` folder of this repository for quick replication.
