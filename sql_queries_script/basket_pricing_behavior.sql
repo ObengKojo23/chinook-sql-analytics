@@ -1,9 +1,8 @@
--- =========================================================
--- Problem (from Management)
--- Management wants to understand basket composition (size and value) and identify:
--- Which invoices are large?
--- Which products sell high volume on discount?.
--- =========================================================
+-- ============================================================
+-- Basket & Pricing Behavior — Chinook SQL Analytics
+-- Purpose: Understand basket size/value and price sensitivity
+-- DB: SQLite (Chinook)
+-- ============================================================
 
 -- 1. Largest baskets by quantity and value
 SELECT ii.InvoiceId,
@@ -33,5 +32,6 @@ SELECT
   ROUND(TotalRevenue, 2) AS TotalRevenue
 FROM track_stats
 ORDER BY TotalQty DESC, AvgPrice ASC
+
 LIMIT 15;
 
