@@ -54,19 +54,26 @@ This repository demonstrates the full workflow, from **business problem framing*
 
 ```plaintext
 chinook-sql-analytics/
-├── README.md
+
+├── database/
+│   └── chinook.db
 ├── finding_report.md
-├── chinook_sql_analysis.ipynb
-├── sql_queries/
+├── images/
+│   ├── catalogue_content_curation.sql
 │   ├── customer_market_insights.sql
 │   ├── sales_revenue_analytics.sql
+│   └── team_performance.sql
+├── sql_queries_scripts/
+│   ├── all_queries_master.sql
 │   ├── basket_pricing_behavior.sql
 │   ├── catalogue_content_curation.sql
+│   ├── customer_market_insights.sql
+│   ├── sales_revenue_analytics.sql
 │   └── team_performance.sql
+├── LICENSE
+├── README.md
 ├── requirements.txt
-├── data/ (optional)
-│   └── chinook.db
-└── LICENSE
+└── chinook_sql_analysis.ipynb
 ```
 ## 📌 Problem Statement  
 
