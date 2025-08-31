@@ -34,8 +34,8 @@ SELECT
   ROUND(TotalRevenue, 2) AS TotalRevenue
 FROM track_stats
 ORDER BY TotalQty DESC, AvgPrice ASC
-
 LIMIT 15;
+
 
 
 
