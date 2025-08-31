@@ -74,8 +74,8 @@ WITH counts AS (
 SELECT
   SUM(CASE WHEN Orders = 1 THEN 1 ELSE 0 END) AS OneTimeCustomers,
   SUM(CASE WHEN Orders > 1 THEN 1 ELSE 0 END) AS ReturningCustomers
-
 FROM counts;
+
 
 
 
