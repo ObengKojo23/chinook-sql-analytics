@@ -1,10 +1,9 @@
--- =========================================================
--- Problem (from Management)
---Content team needs to ensure the catalogue is well curated by having insights on: 
--- Which albums have depth?
--- Where are curation gaps (tracks not in any playlist)? 
--- What is the most play-listed (social proof). 
--- =========================================================
+-- ============================================================
+-- Catalogue & Content Curation — Chinook SQL Analytics
+-- Purpose: Surface deep catalogs, identify curation gaps,
+--          and quantify social proof via playlists
+-- DB: SQLite (Chinook)
+-- ============================================================
 
 -- 1. Albums with deepest tracklists
 SELECT al.AlbumId,
@@ -37,4 +36,5 @@ JOIN albums al ON al.AlbumId = t.AlbumId
 JOIN artists ar ON ar.ArtistId = al.ArtistId
 GROUP BY t.TrackId
 ORDER BY PlaylistsCount DESC, Track
+
 LIMIT 20;
