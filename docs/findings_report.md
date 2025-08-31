@@ -34,7 +34,7 @@ Management requested visibility into customer lifetime value, revenue contributi
 - **Prioritize High-Revenue Markets:** Focus marketing and promotional campaigns on **USA, Canada, France, Brazil and Germany** where revenue concentration is highest.  
 - **Lift AOV in Key Markets:** Test product bundles and cross-sells in USA and Canada to raise AOV.  
 - **VIP Program:** Develop a loyalty tier for top LTV customers with early access to new releases to protect and grow these valuable relationships.
-- **Retention Strategy:** Maintain engagement via personalized recommendations and exclusive offers. Since no customers are one-timers, invest in **cross-selling complementary products** and **loyalty incentives** to further monetize repeat behavior.
+- **Retention Strategy:** Maintain engagement via personalized recommendations and exclusive offers. Since non of the customers are one-timers, invest in **cross-selling complementary products** and **loyalty incentives** to further monetize repeat behavior.
 
 ### 🔑 **Management Takeaway:**  
 The company has a **loyal and concentrated customer base** with significant growth potential in both **revenue and AOV**. Strategic focus on key markets and customer engagement initiatives can accelerate profitability.
