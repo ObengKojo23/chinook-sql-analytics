@@ -16,7 +16,7 @@
 
 Our digital music store (Chinook) continues to grow, but management faces challenges in understanding key performance drivers across customer behavior, sales performance, and catalog utilization.  While we collect large volumes of transactional and catalogue data, actionable insights are missing.   
 
-To address this gap, I am tasked as **the analyst** to conduct a **comprehensive SQL-driven analysis** of the[Chinook Database](https://github.com/ObengKojo23/chinook-sql-analytics/tree/main/dataset). This analysis aims to transform raw transaction and catalog data into **actionable insights** that inform management decisions on:
+To address this gap, I am tasked as **the analyst** to conduct a **comprehensive SQL-driven analysis** of the [Chinook Database](https://github.com/ObengKojo23/chinook-sql-analytics/tree/main/dataset). This analysis aims to transform raw transaction and catalog data into **actionable insights** that inform management decisions on:
 
 - **Customer segmentation & retention**
 - **Revenue trends & product performance**
