@@ -143,7 +143,7 @@ The team's top performers, Jane Peacock, Margaret Park, and Steve Johnson, exhib
 ---
 
 
-## 📌 Strategic Summary
+## 💡 Strategic Summary
 
 This analysis highlights **where to focus efforts** for growth:
 - **Market Focus:** Prioritize top 5 countries and unlock potential in mid-AOV markets.
