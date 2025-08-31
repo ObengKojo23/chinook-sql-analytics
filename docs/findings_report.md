@@ -1,4 +1,4 @@
-# 📊 Chinook SQL Analytics — Findings & Recommendations Report
+# 📊 Findings & Recommendations Report (Chinook SQL Analytics)
 
 This report summarizes insights from a comprehensive SQL analysis of the Chinook music store database.  
 The findings are organized into five business themes, with **clear recommendations** for management action.
