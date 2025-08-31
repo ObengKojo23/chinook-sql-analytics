@@ -13,6 +13,8 @@ GROUP BY ii.InvoiceId
 ORDER BY ItemsInBasket DESC, BasketValue DESC
 LIMIT 10;
 
+-- ----------------------------------------------------------------
+
 -- 2. Popular tracks with lower average prices (price sensitivity proxy)
 WITH track_stats AS (
   SELECT 
@@ -34,4 +36,5 @@ FROM track_stats
 ORDER BY TotalQty DESC, AvgPrice ASC
 
 LIMIT 15;
+
 
