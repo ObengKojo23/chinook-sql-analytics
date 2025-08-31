@@ -1,8 +1,8 @@
--- =========================================================
--- Problem (from Management)
--- Provide a single view of sales performance: totals, monthly
--- trends, and top-performing tracks, artists, genres, formats.
--- =========================================================
+-- ============================================================
+-- Sales & Revenue Analytics — Chinook SQL Analytics
+-- Purpose: Track headline KPIs, trends, and product performance
+-- DB: SQLite (Chinook)
+-- ============================================================
 
 -- 1. Headline KPIs: revenue & units sold
 SELECT ROUND(SUM(i.Total), 2) AS TotalRevenue,
@@ -59,6 +59,7 @@ FROM invoice_items ii
 JOIN tracks t   ON t.TrackId         = ii.TrackId
 JOIN media_types mt ON mt.MediaTypeId = t.MediaTypeId
 GROUP BY mt.MediaTypeId
+
 ORDER BY Revenue DESC;
 
 
