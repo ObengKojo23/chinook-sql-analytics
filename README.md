@@ -106,3 +106,54 @@ All queries are organized by business problem and include:
    ```bash
    git clone https://github.com/obengkojo23/chinook-sql-analytics.git
    cd chinook-sql-analytics
+
+
+
+
+   # 🎵 Chinook SQL Analytics Project
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![GitHub last commit](https://img.shields.io/github/last-commit/ObengKojo23/Chinook-SQL-Analytics)
+![GitHub repo size](https://img.shields.io/github/repo-size/ObengKojo23/Chinook-SQL-Analytics)
+
+This project analyzes the **Chinook digital media store database** using SQL and Jupyter Notebooks.  
+The goal is to answer **key business questions** on customer behavior, revenue performance, pricing patterns, and team productivity — then translate them into **actionable insights** and **strategic recommendations** for stakeholders.
+
+---
+
+## 📊 Project Highlights
+- **Comprehensive SQL Analysis:** Covers Customer Insights, Sales & Revenue Analytics, Basket Behavior, Content Curation, and Team Performance.
+- **Executive-Ready Deliverables:** Includes a polished PDF executive summary for management consumption.
+- **Reproducible Workflow:** Jupyter Notebook with well-documented SQL queries and outputs.
+- **Action-Oriented Recommendations:** Every insight is paired with concrete business actions.
+
+---
+
+## 📂 Repository Structure
+
+```plaintext
+chinook-sql-analytics/
+├── README.md                    # Project overview (you are here)
+├── finding_report.md            # Full detailed analysis & insights
+├── LICENSE                      # Apache 2.0 license
+│
+├── docs/                        # Supporting documents
+│   ├── project_brief.md         # Problem statement from management
+│   └── deliverables_outcomes.md # Key deliverables & success criteria
+│
+├── notebooks/                   # Reproducible Jupyter notebooks
+│   └── chinook_sql_analysis.ipynb
+│
+├── reports/                     # Final stakeholder-ready reports
+│   └── executive_summary.pdf
+│
+├── sql/                         # Organized SQL scripts
+│   ├── customer_market_insights/
+│   ├── sales_revenue_analytics/
+│   ├── basket_pricing_behavior/
+│   ├── catalogue_content_curation/
+│   └── team_performance/
+│
+└── data/ (optional)             # Chinook database if shareable
+    └── chinook.db
+
