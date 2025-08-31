@@ -58,13 +58,15 @@ The company has a **loyal and concentrated customer base** with significant grow
 
 - **Revenue Trend:**  
   - Monthly revenues are stable, with slight seasonal peaks in **April** and **November**.  
-  - No major declining trend observed — demand is steady.
+  - No major declining trend observed indicating that demand is steady.
 
-**Recommendations:**
-- **Expand High-Performing Genres:** Increase catalog depth in Rock and Latin categories.  
-- **Leverage Top Artists:** Feature Iron Maiden, U2, and Metallica in promotions to boost revenue.  
-- **Phase Out Low-Performing Formats:** Focus on high-performing media types (MPEG).  
-- **Seasonal Promotions:** Launch campaigns ahead of April and November peaks to maximize demand.
+### **🎯Recommendations:**
+- **Expand High-Performing Genres:** Increase catalog depth in **Rock**, **Latin** and **Metal** categories.  
+- **Leverage Top Artists:** Feature **Iron Maiden**, **U2**, and **Metallica** in promotions to boost revenue.  
+- **Phase Out Low-Performing Formats:** Prioritize high-performing media types (**MPEG audio**) in catalog updates and user experience.
+- Reassess the business case for rarely purchased formats (**Purchased/Unprotected AAC**) 
+- **Seasonal Promotions:** Launch campaigns ahead of **April** and **November** peaks to maximize demand.
+- Curate dedicated “TV & Film Soundtracks” playlists to increase discovery and repeat purchases.
 
 ---
 
@@ -79,7 +81,7 @@ The company has a **loyal and concentrated customer base** with significant grow
   - Popular tracks with **low average price ($0.99)** generate significant unit sales.
   - These tracks drive volume but limit revenue per unit.
 
-**Recommendations:**
+### **🎯Recommendations:**
 - **Cross-Sell Strategy:** Suggest related tracks at checkout to raise basket value.  
 - **Tiered Pricing:** Introduce “premium bundles” with slight discounts to incentivize bigger baskets.  
 - **Promote High-Margin Tracks:** Highlight slightly higher-priced tracks alongside popular low-price ones.
@@ -92,7 +94,7 @@ The company has a **loyal and concentrated customer base** with significant grow
 - **Long-Tail Tracks Underperform:** Several tracks are missing from playlists or have very low sales volume.
 - **Top-Performing Tracks:** A small group of tracks (e.g., “The Woman King”, “The Fix”) dominate revenue.
 
-**Recommendations:**
+### **🎯Recommendations:**
 - **Promote the Long Tail:** Create discovery playlists to surface under-promoted tracks.  
 - **Curated Editorial Playlists:** Rotate tracks monthly to balance exposure between popular and niche items.  
 - **Artist Spotlight Campaigns:** Feature artists with deep catalogues to drive repeat engagement.
@@ -111,7 +113,7 @@ The company has a **loyal and concentrated customer base** with significant grow
   - Jane (21 customers), Margaret (20), Steve (18) manage all active accounts.  
   - Five employees show **zero assigned customers**, indicating unused capacity.
 
-**Recommendations:**
+### **🎯Recommendations:**
 - **Replicate Top-Performer Playbooks:** Document Jane, Margaret, and Steve’s tactics for broader team adoption.
 - **Rebalance Portfolios:** Distribute accounts to underutilized reps to spread workload and mitigate risk.
 - **Enablement & Training:** Provide sales coaching and objection handling playbooks to underperformers.
