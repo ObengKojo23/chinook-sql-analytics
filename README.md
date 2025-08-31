@@ -1,7 +1,5 @@
 # SQL-Driven Business Insights on the Chinook Music Store Dataset
 
-# 🎶 Chinook SQL Analytics — Business Insights Project
-
 [![SQL](https://img.shields.io/badge/SQL-SQLite-blue)]()
 [![SQL Badge](https://img.shields.io/badge/SQL-Analysis-blue)]()
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)]()
@@ -14,23 +12,19 @@
 
 ## 📝 Executive Summary  
 
-Our digital music store (Chinook) continues to grow, but management faces challenges in understanding customer behavior, sales performance, and catalog utilization. We have large volumes of transactional and catalog data, yet actionable insights are missing.  
+Our digital music store (Chinook) continues to grow, but management faces challenges in understanding key performance drivers across customer behavior, sales performance, and catalog utilization.  While we collect large volumes of transactional and catalogue data, actionable insights are missing.   
 
-This project delivers a **comprehensive, SQL-driven analysis** of the [Chinook Database]([https://github.com/lerocha/chinook-database](https://github.com/ObengKojo23/chinook-sql-analytics/tree/main/dataset)), a sample dataset representing a digital music store.  
-As the **data analyst**, my task was to transform raw transaction and catalog data into **actionable insights** that inform management decisions on:
+To address this gap, I am tasked as **the analyst** to conduct a **comprehensive SQL-driven analysis** of the[Chinook Database](https://github.com/ObengKojo23/chinook-sql-analytics/tree/main/dataset). This analysis aims to transform raw transaction and catalog data into **actionable insights** that inform management decisions on:
 
 - **Customer segmentation & retention**
 - **Revenue trends & product performance**
 - **Pricing & basket behavior**
 - **Catalogue optimization**
 - **Team performance (support reps)**
-    
 
-This analysis will form the foundation for **data-informed decision-making** across marketing, sales, and content teams, ensuring that our strategies are backed by evidence rather than assumptions.  
+The outcomes of this project provide management with a clear, evidence-based view of the business. Insights will form the foundation for **data-informed decision-making** across marketing, sales, and content teams, ensuring that our strategies are backed by evidence rather than assumptions. 
 
-This repository demonstrates the full workflow — from **business problem framing** to **SQL analysis** to **executive recommendations** — in a format that is reproducible and recruiter-friendly.
-
----
+This repository demonstrates the full workflow, from **business problem framing** to **SQL analysis** to **executive recommendations** — in a format that is reproducible.
 
 ---
 
