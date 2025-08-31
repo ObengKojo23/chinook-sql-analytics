@@ -14,10 +14,10 @@ Management requested visibility into customer lifetime value, revenue contributi
 - **Top Lifetime Value Customers:**  
   - Helena Holý (Czech Republic) leads with **$49.62** lifetime revenue.  
   - Richard Cunningham (USA) and Luis Rojas (Chile) follow closely, with **$47.62** and **$46.62** respectively.  
-  - USA-based customers dominate the top 20 list — a clear signal of a strong North American customer base.
+  - USA-based customers dominate the top 20 list. This is a clear signal of a strong North American customer base.
 
 - **Market Revenue Distribution:**  
-  - **USA** leads with $523.06 (22.46%) — Making `USA` our primary revenue driver.  
+  - **USA** leads with $523.06 (22.46%), Making `USA` our primary revenue driver.  
   - **Canada:** follows with $303.96 (13.05%) and **France** is our third biggest market with $195.10 (8.38%).  
   - The top 5 countries(`USA`, `Canada`, `France`, `Brazil` and `Germany`) contribute **58.77% of the total revenue**. This highlights a **concentrated market opportunity**.
   - **Long-tail countries** such as Denmark, Italy, and Spain contribute smaller but **consistent revenue streams**, making them ideal candidates for targeted upselling and cross-selling campaigns.
@@ -55,7 +55,7 @@ The leadership team needed a clear view of total revenue, monthly performance tr
 
 - **Top Artists:**  
   - **Iron Maiden ($138.60)**, **U2 ($105.93)**, and **Metallica ($90.09)** dominate artist revenue, confirming **Rock/Metal** as the core genre drivers. 
-  - Long tail of artists generates moderate revenue — potential for curated exposure.
+  - Long tail of artists generates moderate revenue which indicates potential for curated exposure.
 
 - **Revenue by Media Type (format):**  
   - **MPEG audio files** contribute **$1,956.24** representing and overwhelming **84.01%** of the total revenue.  
