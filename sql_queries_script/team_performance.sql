@@ -1,10 +1,9 @@
--- =========================================================
--- Problem (from Management)
--- Sales leadership needs to be able to measure employee's effectiveness and performance visibility:
--- Revenue under management
--- Average invoice value  
--- Portfolio size to guide management decision on incentives and coverage
--- =========================================================
+-- ============================================================
+-- Team Performance — Support Reps as Account Managers
+-- Purpose: Quantify revenue under management, deal quality,
+--          and portfolio coverage to inform sales ops
+-- DB: SQLite (Chinook)
+-- ============================================================
 
 -- 1. Revenue managed by each rep
 SELECT e.EmployeeId,
@@ -14,7 +13,10 @@ FROM employees e
 JOIN customers c ON c.SupportRepId = e.EmployeeId
 JOIN invoices  i ON i.CustomerId   = c.CustomerId
 GROUP BY e.EmployeeId
+
 ORDER BY RevenueManaged DESC;
+
+-- ----------------------------------------------------------------
 
 -- 2. Average invoice value per rep
 SELECT e.EmployeeId,
@@ -25,6 +27,8 @@ JOIN customers c ON c.SupportRepId = e.EmployeeId
 JOIN invoices  i ON i.CustomerId   = c.CustomerId
 GROUP BY e.EmployeeId
 ORDER BY AvgInvoice DESC;
+
+-- ----------------------------------------------------------------
 
 -- 3. Portfolio size vs revenue
 SELECT e.EmployeeId,
