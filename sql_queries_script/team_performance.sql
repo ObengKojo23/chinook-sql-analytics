@@ -16,7 +16,7 @@ GROUP BY e.EmployeeId
 
 ORDER BY RevenueManaged DESC;
 
--- ----------------------------------------------------------------
+------------------------------------------------------------------
 
 -- 2. Average invoice value per rep
 SELECT e.EmployeeId,
@@ -28,7 +28,7 @@ JOIN invoices  i ON i.CustomerId   = c.CustomerId
 GROUP BY e.EmployeeId
 ORDER BY AvgInvoice DESC;
 
--- ----------------------------------------------------------------
+------------------------------------------------------------------
 
 -- 3. Portfolio size vs revenue
 SELECT e.EmployeeId,
@@ -40,4 +40,5 @@ LEFT JOIN customers c ON c.SupportRepId = e.EmployeeId
 LEFT JOIN invoices  i ON i.CustomerId   = c.CustomerId
 GROUP BY e.EmployeeId
 ORDER BY RevenueManaged DESC, CustomersManaged DESC;
+
 
