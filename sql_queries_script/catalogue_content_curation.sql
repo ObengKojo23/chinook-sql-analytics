@@ -40,6 +40,6 @@ JOIN albums al ON al.AlbumId = t.AlbumId
 JOIN artists ar ON ar.ArtistId = al.ArtistId
 GROUP BY t.TrackId
 ORDER BY PlaylistsCount DESC, Track
-
 LIMIT 20;
+
 
