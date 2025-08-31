@@ -69,7 +69,6 @@ The company has a **loyal and concentrated customer base** with significant grow
 - Curate dedicated “TV & Film Soundtracks” playlists to increase discovery and repeat purchases.
 
 ### 📌 **Management Takeaway:**  
-
 The company has a strong, stable revenue stream driven by dominant genres like Rock, Latin, and Metal, as well as a core group of popular artists. The heavy reliance on MPEG audio suggests focusing catalog expansion on this format. The stable monthly revenue trend, combined with seasonal peaks, presents an opportunity to maximize sales with targeted promotions and curated content. A strategic shift towards high-performing formats and genres will further strengthen the brand’s market position.
 ---
 
@@ -90,8 +89,7 @@ The company has a strong, stable revenue stream driven by dominant genres like R
 - **Tiered Pricing:** Introduce “premium bundles” with slight discounts to incentivize bigger baskets.  
 - **Promote High-Margin Tracks:** Highlight slightly higher-priced tracks alongside popular low-price ones.
 
-### 📌 **Management Takeaway:**  
-
+### 📌 **Management Takeaway:** 
 The company’s basket sizes are relatively small, with only a few orders reaching higher values. While low-priced tracks drive significant volume, they limit per-unit revenue. A strategic focus on cross-selling, premium bundles, and highlighting higher-margin tracks can increase overall basket value and profitability without deterring price-sensitive customers.
 ---
 
