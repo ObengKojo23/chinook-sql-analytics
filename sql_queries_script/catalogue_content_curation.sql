@@ -16,6 +16,8 @@ JOIN tracks  t  ON t.AlbumId   = al.AlbumId
 GROUP BY al.AlbumId
 ORDER BY NumTracks DESC, Album;
 
+------------------------------------------------------------------
+
 -- 2. Tracks missing from any playlist (curation gap)
 SELECT t.TrackId, t.Name AS Track, ar.Name AS Artist
 FROM tracks t
@@ -25,6 +27,8 @@ LEFT JOIN playlist_track pt ON pt.TrackId = t.TrackId
 WHERE pt.PlaylistId IS NULL
 ORDER BY Artist, Track
 LIMIT 50;
+
+------------------------------------------------------------------
 
 -- 3. Most playlisted tracks (social proof)
 SELECT t.Name AS Track,
@@ -38,3 +42,4 @@ GROUP BY t.TrackId
 ORDER BY PlaylistsCount DESC, Track
 
 LIMIT 20;
+
