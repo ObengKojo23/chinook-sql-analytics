@@ -148,13 +148,15 @@ A quick glimpse of the Jupyter Notebook execution, showing queries, query output
 
 ---
 
-## 🔗 Connect with Me  
-For any questions or suggestions, feel free to reach out:
+## 👤 Author 
 
-👤 **Author** 
-- **Emmanuel Obeng Afari**  
-- 📌 [LinkedIn](https://www.linkedin.com/in/obengafari)
-- 📂 [More Projects on GitHub](https://github.com/ObengKojo23)
+**Emmanuel Obeng Afari**  
+
+🔗 **Connect with me:**  
+For any questions or suggestions, feel free to reach out:
+- [LinkedIn](https://www.linkedin.com/in/obengafari)
+- [GitHub](https://github.com/ObengKojo23)
+- [Email](mailto:emmanuel.o.afari@gmail.com)
 
 ---
 
