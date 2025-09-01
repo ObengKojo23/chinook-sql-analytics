@@ -122,7 +122,7 @@ chinook-sql-analytics/
 | ├── `team_performance.sql` | Revenue by rep, portfolio size, and average invoice analysis |
 | └── `all_queries_master.sql` | Consolidated file with all SQL queries in one place |
 | **[database/chinook.db](./data/chinook.db)** | SQLite database file used for analysis (if license allows distribution) |
-| **[images/](./images/)** | Project assets (banner image, database ERD diagram) used in README & notebook |
+| **[images/](./assets/)** | Project assets (banner image, database ERD diagram) used in README & notebook |
 | **[requirements.txt](./requirements.txt)** | Python dependencies to reproduce the analysis locally |
 | **[LICENSE](./LICENSE)** | Project license (Apache 2.0) |
 | **[README.md](./README.md)** | This file — full project overview, problem statement, deliverables, and setup instructions |
