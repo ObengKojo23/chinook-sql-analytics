@@ -109,13 +109,22 @@ chinook-sql-analytics/
 
 | File/Folder | Purpose |
 |-------------|---------|
-| **[finding_report.md](./docs/finding_report.md)** | Full narrative report — insights & management recommendations |
-| **[chinook_sql_analysis.ipynb](.notebooks/chinook_sql_analysis.ipynb)** | Jupyter Notebook with SQL queries, outputs, and commentary |
-| **[sql_queries/](./sql_queries/)** | Clean, modular SQL scripts organized by business theme |
-| **[requirements.txt](./requirements.txt)** | Python dependencies for reproducibility |
-| **[data/chinook.db](./data/chinook.db)** | SQLite database (optional if license allows) |
+| **[finding_report.md](./finding_report.md)** | Comprehensive findings & recommendations report for management |
+| **[chinook_sql_analysis.ipynb](./chinook_sql_analysis.ipynb)** | Main Jupyter Notebook with SQL queries, outputs, insights, and commentary |
+| **[setup_sql_in_jupyter_notebook.ipynb](./setup_sql_in_jupyter_notebook.ipynb)** | Environment setup guide — shows how to connect Jupyter to the Chinook SQLite database |
+| **[sql_queries_scripts/](./sql_queries_scripts/)** | Modular SQL scripts organized by business area |
+| ├── `customer_market_insights.sql` | Queries for high-value customers, revenue by country, and AOV |
+| ├── `sales_revenue_analytics.sql` | Queries for headline KPIs, monthly revenue trends, top tracks & artists |
+| ├── `basket_pricing_behavior.sql` | Basket size, basket value, and price sensitivity queries |
+| ├── `catalogue_content_curation.sql` | Playlist gaps, catalogue coverage, and most-played tracks |
+| ├── `team_performance.sql` | Revenue by rep, portfolio size, and average invoice analysis |
+| └── `all_queries_master.sql` | Consolidated file with all SQL queries in one place |
+| **[database/chinook.db](./database/chinook.db)** | SQLite database file used for analysis (if license allows distribution) |
+| **[images/](./images/)** | Project assets (banner image, database ERD diagram) used in README & notebook |
+| **[requirements.txt](./requirements.txt)** | Python dependencies to reproduce the analysis locally |
+| **[LICENSE](./LICENSE)** | Project license (Apache 2.0) |
+| **[README.md](./README.md)** | This file — full project overview, problem statement, deliverables, and setup instructions |
 
-docs/findings_report.md
 
 ---
 
