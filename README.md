@@ -114,7 +114,7 @@ chinook-sql-analytics/
 | **[finding_report.md](./docs/findings_report.md)** | Comprehensive findings & recommendations report for management |
 | **[chinook_sql_analysis.ipynb](./notebooks/chinook_sql_analysis.ipynb)** | Main Jupyter Notebook with SQL queries, outputs, insights, and commentary |
 | **[setup_sql_in_jupyter_notebook.ipynb](./notebooks/setup_sql_in_jupyter_notebook.ipynb)** | Environment setup guide — shows how to connect Jupyter to the Chinook SQLite database |
-| **[sql_queries_scripts/](./sql_queries_scripts/)** | Modular SQL scripts organized by business area |
+| **[sql_queries_scripts/](./sql_query_scripts/)** | Modular SQL scripts organized by business area |
 | ├── `customer_market_insights.sql` | Queries for high-value customers, revenue by country, and AOV |
 | ├── `sales_revenue_analytics.sql` | Queries for headline KPIs, monthly revenue trends, top tracks & artists |
 | ├── `basket_pricing_behavior.sql` | Basket size, basket value, and price sensitivity queries |
