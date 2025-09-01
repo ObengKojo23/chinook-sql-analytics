@@ -109,7 +109,9 @@ chinook-sql-analytics/
 
 | File/Folder | Purpose |
 |-------------|---------|
-| **[finding_report.md](./docs/finding_report.md)** | Comprehensive findings & recommendations report for management |
+| **[project_brief.md](./docs/project_brief.md)** | Problem statement and project objectives as defined by management |
+| **[deliverables_outcomes.md](./docs/deliverables_outcomes.md)** | Clear list of project deliverables and expected business outcomes |
+| **[finding_report.md](./docs/findings_report.md)** | Comprehensive findings & recommendations report for management |
 | **[chinook_sql_analysis.ipynb](./notebooks/chinook_sql_analysis.ipynb)** | Main Jupyter Notebook with SQL queries, outputs, insights, and commentary |
 | **[setup_sql_in_jupyter_notebook.ipynb](./notebooks/setup_sql_in_jupyter_notebook.ipynb)** | Environment setup guide — shows how to connect Jupyter to the Chinook SQLite database |
 | **[sql_queries_scripts/](./sql_queries_scripts/)** | Modular SQL scripts organized by business area |
