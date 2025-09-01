@@ -62,7 +62,7 @@ chinook-sql-analytics/
 ├── finding_report.md
 ├── images/
 │   ├── banner.png
-│   ├── customer_market_insights.sql
+│   ├── database_diagram.png
 │   ├── sales_revenue_analytics.sql
 │   └── team_performance.sql
 ├── sql_queries_scripts/
