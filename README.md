@@ -78,33 +78,6 @@ To enable data-driven decision-making, **senior management commissioned a deep-d
 
 ---
 
-## 📂 Repository Structure
-
-```plaintext
-chinook-sql-analytics/
-├── README.md                             # Main project overview and documentation
-├── requirements.txt                      # Python dependencies for environment setup
-├── data/
-│   └── chinook.db                        # SQLite database file used for analysis
-├── notebooks/
-│   └── chinook_sql_analysis.ipynb        # Jupyter Notebook with SQL queries, results, and insights
-├── sql_queries/
-│   ├── customer_market_insights.sql       # SQL queries for customer and market analysis
-│   ├── sales_revenue_analytics.sql        # SQL queries for sales and revenue trends
-│   ├── basket_pricing_behavior.sql        # SQL queries for basket size, value, and pricing behavior
-│   ├── catalogue_content_curation.sql     # SQL queries for catalogue and playlist optimization
-│   ├── team_performance.sql               # SQL queries for account manager performance analysis
-│   └── all_queries_master.sql             # Consolidated file with all SQL queries
-├── docs/
-│   ├── project_brief.md                   # Project problem statement and objectives
-│   ├── deliverables_outcomes.md           # Deliverables and expected outcomes
-│   └── finding_report.md                  # Consolidated findings and recommendations
-└── assets/
-    └── notebook-preview.gif               # Notebook preview or screenshot
-```
-
----
-
 ## 🔄 How to Reproduce  
 
 1. **Clone the repository**
@@ -135,54 +108,66 @@ chinook-sql-analytics/
 - Open `notebooks/chinook_sql_analysis.ipynb`.  
 - In Jupyter, navigate to **Kernel → Restart & Run All** to execute all queries and reproduce outputs, visualizations, and insights.
 
+---
 
+## 📂 Repository Structure
 
-## 📊 Key Insights Snapshot
-
-✅ **Top Revenue Market:** USA — $523.06 (22.5% of global revenue)  
-✅ **Most Profitable Genre:** Rock — $826.65 (40% of total sales)  
-✅ **Customer Loyalty:** 100% repeat buyers — exceptional retention potential  
-✅ **Best Performing Rep:** Jane Peacock — $833.04 revenue managed  
-✅ **Revenue Trend:** Stable YoY, slight peaks in April & November  
+```plaintext
+chinook-sql-analytics/
+├── README.md                             # Main project overview and documentation
+├── requirements.txt                      # Python dependencies for environment setup
+├── data/
+│   └── chinook.db                        # SQLite database file used for analysis
+├── notebooks/
+│   └── chinook_sql_analysis.ipynb        # Jupyter Notebook with SQL queries, results, and insights
+├── sql_queries/
+│   ├── customer_market_insights.sql       # SQL queries for customer and market analysis
+│   ├── sales_revenue_analytics.sql        # SQL queries for sales and revenue trends
+│   ├── basket_pricing_behavior.sql        # SQL queries for basket size, value, and pricing behavior
+│   ├── catalogue_content_curation.sql     # SQL queries for catalogue and playlist optimization
+│   ├── team_performance.sql               # SQL queries for account manager performance analysis
+│   └── all_queries_master.sql             # Consolidated file with all SQL queries
+├── docs/
+│   ├── project_brief.md                   # Project problem statement and objectives
+│   ├── deliverables_outcomes.md           # Deliverables and expected outcomes
+│   └── finding_report.md                  # Consolidated findings and recommendations
+└── assets/
+    └── notebook-preview.gif               # Notebook preview or screenshot
+```
 
 ---
 
-## 📑 Project Files
+## 🎥 Project Preview  
 
-| File/Folder | Purpose |
-|-------------|---------|
-| **[finding_report.md](./finding_report.md)** | Full narrative report — insights & management recommendations |
-| **[chinook_sql_analysis.ipynb](./chinook_sql_analysis.ipynb)** | Jupyter Notebook with SQL queries, outputs, and commentary |
-| **[sql_queries/](./sql_queries/)** | Clean, modular SQL scripts organized by business theme |
-| **[requirements.txt](./requirements.txt)** | Python dependencies for reproducibility |
-| **[data/chinook.db](./data/chinook.db)** | SQLite database (optional if license allows) |
+A quick glimpse of the Jupyter Notebook execution — showing query outputs, insights, and recommendations.  
 
----
+### 📸 Static Preview  
+![Chinook Project Banner](assets/chinook_project_preview.png)
 
-## 📂 SQL Scripts  
-
-All queries are organized by business problem and include:  
-- The **business problem** (from management).  
-- The **SQL query** solving it.  
-- Inline **insights and recommendations** as comments.  
-
-- [Customer & Market Insights](sql_queries_script/customer_market_insights.sql)  
-- [Sales & Revenue Analytics](sql_queries_script/sales_revenue_analytics.sql)  
-- [Basket & Pricing Behavior](sql_queries_script/basket_pricing_behavior.sql)  
-- [Catalogue & Content Curation](sql_queries_script/catalogue_content_curation.sql)  
-- [Team Performance](sql_queries_script/team_performance.sql)  
-- [All Queries (Master File)](sql_queries_script/all_queries_master.sql)  
+### 🖼️ GIF Walkthrough  
+![Chinook Project Demo](assets/notebook-preview.gif)
 
 ---
-
-
 
 ## 🔗 Connect with Me  
 For any questions or suggestions, feel free to reach out:
 
-👤 **Emmanuel Obeng Afari**  
+👤 **Author** 
+- **Emmanuel Obeng Afari**  
 - 📌 [LinkedIn](https://www.linkedin.com/in/obengafari)
 - 📂 [More Projects on GitHub](https://github.com/ObengKojo23)
 
 ---
+
+## 📜 License
+This project is licensed under the [Apache License 2.0](https://github.com/ObengKojo23/chinook-sql-analytics/blob/main/LICENSE)
+
+---
+
+## 🏁 Business Impact
+- This project demonstrates my ability to:
+- Translate raw transactional data into clear, actionable business insights
+- Build reproducible, well-documented SQL workflows
+- Communicate results in an executive-ready, decision-focused format
+
 
