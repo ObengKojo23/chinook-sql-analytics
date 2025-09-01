@@ -139,11 +139,9 @@ chinook-sql-analytics/
 
 ## 🎥 Project Preview  
 
-A quick glimpse of the Jupyter Notebook execution — showing query outputs, insights, and recommendations.  
+A quick glimpse of the Jupyter Notebook execution, showing queries, query outputs, insights, and recommendations.  
 
-### 🖼️ GIF Walkthrough
-![Gif image of the Final Dashboard](./images/dashboard_gif.gif)
-
+#### 🖼️ GIF Walkthrough
 ![Chinook Project Demo](./assets/notebook_preview.gif)
 
 
