@@ -78,6 +78,47 @@ To enable data-driven decision-making, **senior management commissioned a deep-d
 
 ---
 
+## 📂 Repository Structure
+
+```plaintext
+chinook-sql-analytics/
+├── README.md                             # Main project overview and documentation
+├── requirements.txt                      # Python dependencies for environment setup
+├── data/
+│   └── chinook.db                        # SQLite database file used for analysis
+├── notebooks/
+│   └── chinook_sql_analysis.ipynb        # Jupyter Notebook with SQL queries, results, and insights
+├── sql_queries/
+│   ├── customer_market_insights.sql       # SQL queries for customer and market analysis
+│   ├── sales_revenue_analytics.sql        # SQL queries for sales and revenue trends
+│   ├── basket_pricing_behavior.sql        # SQL queries for basket size, value, and pricing behavior
+│   ├── catalogue_content_curation.sql     # SQL queries for catalogue and playlist optimization
+│   ├── team_performance.sql               # SQL queries for account manager performance analysis
+│   └── all_queries_master.sql             # Consolidated file with all SQL queries
+├── docs/
+│   ├── project_brief.md                   # Project problem statement and objectives
+│   ├── deliverables_outcomes.md           # Deliverables and expected outcomes
+│   └── finding_report.md                  # Consolidated findings and recommendations
+└── assets/
+    └── notebook-preview.gif               # Notebook preview or screenshot
+```
+
+---
+
+## 📑 Project Files
+
+| File/Folder | Purpose |
+|-------------|---------|
+| **[finding_report.md](./docs/finding_report.md)** | Full narrative report — insights & management recommendations |
+| **[chinook_sql_analysis.ipynb](.notebooks/chinook_sql_analysis.ipynb)** | Jupyter Notebook with SQL queries, outputs, and commentary |
+| **[sql_queries/](./sql_queries/)** | Clean, modular SQL scripts organized by business theme |
+| **[requirements.txt](./requirements.txt)** | Python dependencies for reproducibility |
+| **[data/chinook.db](./data/chinook.db)** | SQLite database (optional if license allows) |
+
+docs/findings_report.md
+
+---
+
 ## 🔄 How to Reproduce  
 
 1. **Clone the repository**
@@ -107,33 +148,6 @@ To enable data-driven decision-making, **senior management commissioned a deep-d
    jupyter notebook
 - Open `notebooks/chinook_sql_analysis.ipynb`.  
 - In Jupyter, navigate to **Kernel → Restart & Run All** to execute all queries and reproduce outputs, visualizations, and insights.
-
----
-
-## 📂 Repository Structure
-
-```plaintext
-chinook-sql-analytics/
-├── README.md                             # Main project overview and documentation
-├── requirements.txt                      # Python dependencies for environment setup
-├── data/
-│   └── chinook.db                        # SQLite database file used for analysis
-├── notebooks/
-│   └── chinook_sql_analysis.ipynb        # Jupyter Notebook with SQL queries, results, and insights
-├── sql_queries/
-│   ├── customer_market_insights.sql       # SQL queries for customer and market analysis
-│   ├── sales_revenue_analytics.sql        # SQL queries for sales and revenue trends
-│   ├── basket_pricing_behavior.sql        # SQL queries for basket size, value, and pricing behavior
-│   ├── catalogue_content_curation.sql     # SQL queries for catalogue and playlist optimization
-│   ├── team_performance.sql               # SQL queries for account manager performance analysis
-│   └── all_queries_master.sql             # Consolidated file with all SQL queries
-├── docs/
-│   ├── project_brief.md                   # Project problem statement and objectives
-│   ├── deliverables_outcomes.md           # Deliverables and expected outcomes
-│   └── finding_report.md                  # Consolidated findings and recommendations
-└── assets/
-    └── notebook-preview.gif               # Notebook preview or screenshot
-```
 
 ---
 
