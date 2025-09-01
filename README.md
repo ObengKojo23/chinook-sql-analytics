@@ -26,7 +26,7 @@ To address this gap, I am tasked as **the analyst** to conduct a **comprehensive
 
 The outcomes of this project provide management with a clear, evidence-based view of the business. Insights will form the foundation for **data-informed decision-making** across marketing, sales, and content teams, ensuring that our strategies are backed by evidence rather than assumptions. 
 
-This repository demonstrates the full workflow, from **business problem framing** to **SQL analysis** to **executive recommendations** — in a format that is reproducible.
+This repository demonstrates the full workflow, from **business problem framing** to **SQL analysis** to **executive recommendations**, in a format that is reproducible.
 
 ---
 
@@ -77,42 +77,6 @@ chinook-sql-analytics/
 ├── requirements.txt
 └── chinook_sql_analysis.ipynb
 ```
-## 📌 Problem Statement  
-
-**From Management:**  
-
-As part of our ongoing efforts to improve decision-making and drive growth, we need deeper insights from our digital music store data (Chinook database). While we have raw transaction and catalogue data, management lacks clear visibility into:  
-
-1. **Customer & Market Insights**  
-   - Who are our most valuable customers?  
-   - Which markets generate the highest revenue and average order values?  
-   - How many of our customers are one-time vs returning?  
-
-2. **Sales & Revenue Analytics**  
-   - What is our total revenue performance?  
-   - What does the monthly revenue trend look like?  
-   - Which tracks, artists, genres, and formats generate the most revenue?  
-
-3. **Basket & Pricing Behavior**  
-   - How do customers structure their purchases (basket size and value)?  
-   - Which products are highly price-sensitive vs consistently premium?  
-
-4. **Catalogue & Content Curation**  
-   - Which albums and artists have the deepest catalogues?  
-   - Are there tracks that are not being promoted via playlists?  
-   - Which tracks are most frequently included in playlists?  
-
-5. **Team Performance (Support Reps as Account Managers)**  
-   - Which employees manage the most revenue?  
-   - What is the average deal size per representative?  
-   - How does portfolio size compare to revenue performance?  
-
-**Your Task as the Analyst:**  
-- Extract insights from the Chinook database using SQL.  
-- Present findings that directly answer these questions.  
-- Highlight key opportunities for management to act on (e.g., high-value customers, top-performing artists, curation gaps, rep performance).  
-- Ensure the analysis is reproducible and can be shared with technical and non-technical stakeholders alike.  
-
 ---
 
 ## 🎯 Deliverables & Outcomes  
@@ -141,12 +105,12 @@ All queries are organized by business problem and include:
 - The **SQL query** solving it.  
 - Inline **insights and recommendations** as comments.  
 
-- [Customer & Market Insights](sql_queries/customer_market_insights.sql)  
-- [Sales & Revenue Analytics](sql_queries/sales_revenue_analytics.sql)  
-- [Basket & Pricing Behavior](sql_queries/basket_pricing_behavior.sql)  
-- [Catalogue & Content Curation](sql_queries/catalogue_content_curation.sql)  
-- [Team Performance](sql_queries/team_performance.sql)  
-- [All Queries (Master File)](sql_queries/all_queries_master.sql)  
+- [Customer & Market Insights](sql_queries_script/customer_market_insights.sql)  
+- [Sales & Revenue Analytics](sql_queries_script/sales_revenue_analytics.sql)  
+- [Basket & Pricing Behavior](sql_queries_script/basket_pricing_behavior.sql)  
+- [Catalogue & Content Curation](sql_queries_script/catalogue_content_curation.sql)  
+- [Team Performance](sql_queries_script/team_performance.sql)  
+- [All Queries (Master File)](sql_queries_script/all_queries_master.sql)  
 
 ---
 
@@ -164,3 +128,14 @@ All queries are organized by business problem and include:
 
 ## 🛠 Reproducibility
 All SQL queries can be run directly against `chinook.db` using SQLite + Jupyter Notebook. Queries are stored in the `sql/` folder of this repository for quick replication.
+
+
+## 🔗 Connect with Me  
+For any questions or suggestions, feel free to reach out:
+
+👤 **Emmanuel Obeng Afari**  
+- 📌 [LinkedIn](https://www.linkedin.com/in/obengafari)
+- 📂 [More Projects on GitHub](https://github.com/ObengKojo23)
+
+---
+
