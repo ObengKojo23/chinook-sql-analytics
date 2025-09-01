@@ -61,7 +61,7 @@ chinook-sql-analytics/
 │   └── chinook.db
 ├── finding_report.md
 ├── images/
-│   ├── catalogue_content_curation.sql
+│   ├── banner.png
 │   ├── customer_market_insights.sql
 │   ├── sales_revenue_analytics.sql
 │   └── team_performance.sql
@@ -75,7 +75,8 @@ chinook-sql-analytics/
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
-└── chinook_sql_analysis.ipynb
+├── chinook_sql_analysis.ipynb
+└── setup_sql_in_jupyter_notebook.ipynb
 ```
 ---
 
