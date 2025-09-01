@@ -109,9 +109,9 @@ chinook-sql-analytics/
 
 | File/Folder | Purpose |
 |-------------|---------|
-| **[finding_report.md](./finding_report.md)** | Comprehensive findings & recommendations report for management |
-| **[chinook_sql_analysis.ipynb](./chinook_sql_analysis.ipynb)** | Main Jupyter Notebook with SQL queries, outputs, insights, and commentary |
-| **[setup_sql_in_jupyter_notebook.ipynb](./setup_sql_in_jupyter_notebook.ipynb)** | Environment setup guide — shows how to connect Jupyter to the Chinook SQLite database |
+| **[finding_report.md](./docs/finding_report.md)** | Comprehensive findings & recommendations report for management |
+| **[chinook_sql_analysis.ipynb](./notebooks/chinook_sql_analysis.ipynb)** | Main Jupyter Notebook with SQL queries, outputs, insights, and commentary |
+| **[setup_sql_in_jupyter_notebook.ipynb](./notebooks/setup_sql_in_jupyter_notebook.ipynb)** | Environment setup guide — shows how to connect Jupyter to the Chinook SQLite database |
 | **[sql_queries_scripts/](./sql_queries_scripts/)** | Modular SQL scripts organized by business area |
 | ├── `customer_market_insights.sql` | Queries for high-value customers, revenue by country, and AOV |
 | ├── `sales_revenue_analytics.sql` | Queries for headline KPIs, monthly revenue trends, top tracks & artists |
@@ -119,7 +119,7 @@ chinook-sql-analytics/
 | ├── `catalogue_content_curation.sql` | Playlist gaps, catalogue coverage, and most-played tracks |
 | ├── `team_performance.sql` | Revenue by rep, portfolio size, and average invoice analysis |
 | └── `all_queries_master.sql` | Consolidated file with all SQL queries in one place |
-| **[database/chinook.db](./database/chinook.db)** | SQLite database file used for analysis (if license allows distribution) |
+| **[database/chinook.db](./data/chinook.db)** | SQLite database file used for analysis (if license allows distribution) |
 | **[images/](./images/)** | Project assets (banner image, database ERD diagram) used in README & notebook |
 | **[requirements.txt](./requirements.txt)** | Python dependencies to reproduce the analysis locally |
 | **[LICENSE](./LICENSE)** | Project license (Apache 2.0) |
