@@ -145,7 +145,7 @@ A quick glimpse of the Jupyter Notebook execution — showing query outputs, ins
 ![Chinook Project Banner](assets/chinook_project_preview.png)
 
 ### 🖼️ GIF Walkthrough  
-![Chinook Project Demo](assets/notebook-preview.gif)
+![Chinook Project Demo](..assets/notebook_preview.gif)
 
 ---
 
