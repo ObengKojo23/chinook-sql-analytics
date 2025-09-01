@@ -1,4 +1,4 @@
-![Banner Image](./images/banner.png)
+![Banner Image](./assets/banner.png)
 
 # SQL-Driven Business Insights on the Chinook Music Store Dataset
 
