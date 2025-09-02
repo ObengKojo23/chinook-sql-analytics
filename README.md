@@ -169,7 +169,10 @@ A quick glimpse of the Jupyter Notebook execution, showing queries, query output
 #### 🖼️ GIF Walkthrough
 ![Chinook Project Demo](./assets/notebook_preview.gif)
 
+---
 
+## 📜 License
+This project is licensed under the [Apache License 2.0](https://github.com/ObengKojo23/chinook-sql-analytics/blob/main/LICENSE)
 
 ---
 
@@ -182,11 +185,6 @@ For any questions or suggestions, feel free to reach out:
 - [LinkedIn](https://www.linkedin.com/in/obengafari)
 - [GitHub](https://github.com/ObengKojo23)
 - [Email](mailto:emmanuel.o.afari@gmail.com)
-
----
-
-## 📜 License
-This project is licensed under the [Apache License 2.0](https://github.com/ObengKojo23/chinook-sql-analytics/blob/main/LICENSE)
 
 ---
 
